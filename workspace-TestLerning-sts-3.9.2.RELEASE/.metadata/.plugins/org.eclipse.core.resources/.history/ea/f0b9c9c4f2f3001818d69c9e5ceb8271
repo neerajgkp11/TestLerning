@@ -1,0 +1,15 @@
+package test;
+
+import java.util.HashMap;
+
+public class HashMapTest {
+	
+	
+	public static void main(String[] args) {
+		
+		HashMap<Employee, String> hashMap=new HashMap<Employee, String>();
+		
+		hashMap.put(new Employee(1,"neeraj1","nec"), "neeraj1");
+	}
+}
+

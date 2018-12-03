@@ -1,0 +1,20 @@
+package test;
+
+public class MaxDistinct {
+
+	public static void main(String[] args) {
+		String string="GEEKSGEEKSFOR";
+		MaxDistinct maxDistinct=new MaxDistinct();
+		maxDistinct.maxDistinctStringLength(string);
+		
+	}
+
+	private int  maxDistinctStringLength(String string) {
+		// TODO Auto-generated method stub
+		
+		int stringSize=string.length();
+		int result=stringSize;
+		
+		return result;
+	}
+}

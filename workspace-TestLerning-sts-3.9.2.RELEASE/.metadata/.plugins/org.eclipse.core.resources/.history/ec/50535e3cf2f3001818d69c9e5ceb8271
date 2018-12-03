@@ -1,0 +1,8 @@
+package test;
+
+public class Employee {
+
+	int empId;
+	String name;
+	String org;
+}

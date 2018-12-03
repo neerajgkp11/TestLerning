@@ -1,0 +1,17 @@
+package test;
+
+import org.omg.CORBA.PUBLIC_MEMBER;
+
+public class Replacement {
+	
+	
+		// TODO Auto-generated constructor stub
+		
+		public static void main(String str[]) {
+			
+			System.out.println("cgdy");
+			
+		}
+	
+
+}
